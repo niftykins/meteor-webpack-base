@@ -1,5 +1,5 @@
 // import all public methods
-// import 'controllers/thing';
+import 'controllers/';
 
 // setup the router
 import './routes';

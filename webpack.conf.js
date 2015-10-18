@@ -4,7 +4,10 @@ module.exports = {
 		react: 'React',
 		'react-router': 'ReactRouter',
 		'react-router-ssr': 'ReactRouterSSR',
-		'react-meteor-data': 'ReactMeteorData'
+		'react-meteor-data': 'ReactMeteorData',
+		'simple-schema': 'SimpleSchema',
+		moment: 'moment',
+		'class-names': 'classNames'
 	},
 	devServer: {
 		host: 'localhost'

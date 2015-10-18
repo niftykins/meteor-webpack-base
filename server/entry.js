@@ -1,6 +1,6 @@
 // import all public and server methods
-// import 'controllers/thing';
-// import 'controllers/server/thing';
+import 'controllers/';
+import 'controllers/server/';
 
 // import all publications
-// import './publications/thing';
+import './publications/';
